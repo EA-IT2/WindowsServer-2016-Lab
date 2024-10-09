@@ -16,6 +16,8 @@
 ### Software used:
 Virtual Box: to run Windows Server 2016 and Windows 10
 
+Long version of this lab can be viewed as a pdf located in the file section, when located keep pressing more pages button or if the more pages button disappears press the git hub logo that is loading. 
+
 <img src="img/1ad.png" width="900">
 <br>
 <br>
@@ -34,5 +36,18 @@ Virtual Box: to run Windows Server 2016 and Windows 10
 <br>
 <br>
 <img src="img/7du.png" width="900">
+<br>
+<br>
+<img src="img/8cg.png" width="900">
+<br>
+<br>
+<img src="img/9ex.png" width="900">
+<br>
+<br>
+<img src="img/10do.png" width="900">
+<br>
+<img src="img/11vu.png" width="900">
+<br>
+<img src="img/12pu.png" width="900">
 
 
