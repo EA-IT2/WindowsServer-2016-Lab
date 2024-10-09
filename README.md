@@ -14,9 +14,7 @@
 <li>Added a Windows 10 computer to the domain: verifying a user is linked to the domain
 
 ### Software used:
-Virtual Box: to run Windows Server 2016 
-
-Operating System: Windows 10
+Virtual Box: to run Windows Server 2016 and Windows 10
 
 
 
