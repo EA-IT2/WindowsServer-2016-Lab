@@ -16,6 +16,8 @@
 ### Software used:
 Virtual Box: to run Windows Server 2016 and Windows 10
 
+<img src="img/1ad.png" width="900">
+
 
 
 
