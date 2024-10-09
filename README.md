@@ -21,7 +21,18 @@ Virtual Box: to run Windows Server 2016 and Windows 10
 <br>
 <br>
 <img src="img/2au.png" width="900">
-
-
+<br>
+<br>
+<img src="img/3au.png" width="900">
+<br>
+<img src="img/4md.png" width="900">
+<br>
+<img src="img/5md.png" width="900">
+<br>
+<br>
+<img src="img/6ul.png" width="900">
+<br>
+<br>
+<img src="img/7du.png" width="900">
 
 
