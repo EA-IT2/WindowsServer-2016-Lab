@@ -16,6 +16,7 @@
 ### Software used:
 Virtual Box: to run Windows Server 2016 and Windows 10
 
+[Your Link Here](https://github.com/EA-IT2/WindowsServer-2016-Lab/blob/main/IT%20Support%20lab%20Windows%20server%202016.pdf)
 
 ([src/IT Support lab Windows server 2016.pdf](https://github.com/EA-IT2/WindowsServer-2016-Lab/blob/main/IT%20Support%20lab%20Windows%20server%202016.pdf)) 
 
